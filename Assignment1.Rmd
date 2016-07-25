@@ -2,7 +2,9 @@
 title: "ReproducableResearch_CourseProject1"
 author: "Kate Choomack"
 date: "July 22, 2016"
-output: html_document
+output: 
+  html_document: 
+    keep_md: yes
 ---
 **Attach dplyr package**
 ```{r, echo=FALSE}
